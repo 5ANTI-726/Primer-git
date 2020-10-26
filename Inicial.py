@@ -20,7 +20,7 @@ l2 = float(input())
 
 #desplegar calculo funcion1
 a = funcion1(l1,l2)
-print(a)
+print('Área = ' +str(a))
   
 #desplegar calculo funcion 2
 
