@@ -1,6 +1,6 @@
-#matricula y nombre 1
+#A01701879 María José Díaz 
 #matricula y nombre 2
-#proposito del programa
+#Calcular el área y perimetro de un rectángulo
 
 #funcion1  calcular área del rectángulo
 def funcion1(l1,l2):
